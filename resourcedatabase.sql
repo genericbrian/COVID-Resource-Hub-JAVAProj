@@ -116,7 +116,7 @@ DELIMITER ;
 
 DELIMITER //
 
-CREATE PROCEDURE getorders
+CREATE PROCEDURE getorder
 (IN param1 VARCHAR(20))
 BEGIN
    SELECT * FROM orders WHERE uid=param1;
