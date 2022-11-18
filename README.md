@@ -1,5 +1,5 @@
 # COVID-Resource-Hub-JAVAProj
-JSP Proj Covid Resource Hub for Advanced JAVA Cours (SWE2013)
+JSP Proj Covid Resource Hub for Advanced JAVA Course (SWE2013)
 
 ## Instructions
 
